@@ -2,14 +2,14 @@ import "./App.css";
 import mainimg from "../src/assets/Frame 7.png";
 import luxury from "../src/assets/Frame 34.png";
 import union from "../src/assets/Union.png";
-import Rectangle from "../src/assets/res/rectangle 1.png";
-import gym from "../src/assets/res/Frame 29.png";
-import supermarket from "../src/assets/res/rectangle 2.png";
-import tour from "../src/assets/res/Frame 50.png";
-import Xlogo from "../src/assets/res/devicon_twitter.png";
-import Whatsapplogo from "../src/assets/res/logos_whatsapp-icon.png";
-import IGLogo from "../src/assets/res/Group.png";
-import FBlogo from "../src/assets/res/Vector (1).png";
+import Rectangle from "../src/assets/rectangle 1.png";
+import gym from "../src/assets/Frame 29.png";
+import supermarket from "../src/assets/rectangle 2.png";
+import tour from "../src/assets/Frame 50.png";
+import Xlogo from "../src/assets/devicon_twitter.png";
+import Whatsapplogo from "../src/assets/logos_whatsapp-icon.png";
+import IGLogo from "../src/assets/Group.png";
+import FBlogo from "../src/assets/Vector (1).png";
 
 function App() {
   return (
