@@ -55,11 +55,11 @@ function App() {
                 every detail invites you to create unforgettable moments.
               </p>
               <div id="mid4">
-                <img src="./src/assets/res/Frame 34.png" alt="Image" />
+                <img src="./public/res/Frame 34.png" alt="Image" />
               </div>
             </div>
             <div id="mid5">
-              <img src="./src/assets/res/Union.png" alt="A Right Arrow" />
+              <img src="./public/res/Union.png" alt="A Right Arrow" />
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@ function App() {
                       <h1 id="nearfoot4a">24/7 SECURITY</h1>
                       <div id="nearfoot4b">
                         <img
-                          src="./src/assets/res/Rectangle 1.png"
+                          src="./public/res/Rectangle 1.png"
                           alt="Security Officer"
                         />
                       </div>
@@ -110,7 +110,7 @@ function App() {
                     <h1 id="nearfoot5a">GYMS & HEALTH</h1>
                     <div id="nearfoot5b">
                       <img
-                        src="./src/assets/res/Frame 29.png"
+                        src="./public/res/Frame 29.png"
                         alt="Gym Equipments"
                       />
                     </div>
@@ -119,7 +119,7 @@ function App() {
                     <h1 id="nearfoot6a">SUPERMARKETS</h1>
                     <div id="nearfoot6b">
                       <img
-                        src="./src/assets/res/Rectangle 2.png"
+                        src="./public/res/Rectangle 2.png"
                         alt="Supermarket"
                       />
                     </div>
@@ -148,7 +148,7 @@ function App() {
             </p>
           </div>
           <div id="basfooter4">
-            <img src="./src/assets/res/Frame 50.png" alt="Tour Pictures" />
+            <img src="./public/res/Frame 50.png" alt="Tour Pictures" />
           </div>
         </div>
       </section>
@@ -214,22 +214,19 @@ function App() {
           <div className="footer4">
             <div id="footer5">
               <div>
-                <img src="./src/assets/res/devicon_twitter.png" alt="X logo" />
+                <img src="./public/res/devicon_twitter.png" alt="X logo" />
               </div>
               <div>
                 <img
-                  src="./src/assets/res/logos_whatsapp-icon.png"
+                  src="./public/res/logos_whatsapp-icon.png"
                   alt="Whatsapp logo"
                 />
               </div>
               <div>
-                <img src="./src/assets/res/Group.png" alt="Instagram logo" />
+                <img src="./public/res/Group.png" alt="Instagram logo" />
               </div>
               <div>
-                <img
-                  src="./src/assets/res/Vector (1).png"
-                  alt="Facebook logo"
-                />
+                <img src="./public/res/Vector (1).png" alt="Facebook logo" />
               </div>
             </div>
             <div id="footer6">
