@@ -31,10 +31,7 @@ function App() {
             </p>
           </div>
           <div id="main4">
-            <img
-              src="./public/src/assets/res/Frame 7.png"
-              alt="Houses in SunnyVale"
-            />
+            <img src="./public/res/Frame 7.png" alt="Houses in SunnyVale" />
           </div>
         </div>
       </section>
