@@ -1,4 +1,5 @@
 import "./App.css";
+import home from "../public/res/Frame 7.png";
 
 function App() {
   return (
@@ -31,7 +32,7 @@ function App() {
             </p>
           </div>
           <div id="main4">
-            <img src="./public/res/Frame 7.png" alt="Houses in SunnyVale" />
+            <img src={home} alt="Houses in SunnyVale" />
           </div>
         </div>
       </section>
