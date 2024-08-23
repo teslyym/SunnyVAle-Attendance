@@ -37,8 +37,8 @@ function App() {
           <div className="main1">
             <h1 id="main2">DELIVERING PREMIUM SERVICES</h1>
             <p id="main3">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore
+              Exceeding expectations with every detail, delivering premium
+              services that define excellence.
             </p>
           </div>
           <div id="main4">
@@ -54,21 +54,16 @@ function App() {
             </h1>
             <div className="midd">
               <p id="mid3">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                Experience the timeless elegance of Sunnyvale, where
+                architectural grandeur
                 <br />
-                sed do eiusmod tempor incididunt ut labore et dolore
+                meets luxurious comfort. Stroll through manicured gardens
+                indulge in opulent interiors, and savor unique amenities
+                designed for ultimate relaxation and refinement.
                 <br />
-                magna aliqua. Ut enim ad minim veniam, quis nostrud
+                Discover a sanctuary where
                 <br />
-                exercitation ullamco laboris nisi ut aliquip ex ea
-                <br />
-                commodo consequat. Duis aute irure dolor in reprehenderit in
-                <br />
-                voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                <br />
-                Excepteur sint occaecat cupidatat non proident, sunt in
-                <br />
-                culpa qui officia deserunt mollit anim id est laborum
+                every detail invites you to create unforgettable moments.
               </p>
               <div id="mid4">
                 <img src={luxury} alt="Image" />
@@ -87,13 +82,13 @@ function App() {
               UNVEIL THE HIGHLIGHTS <br /> OF OUR NEIGHBOURHOOD
             </h1>
             <p id="nearfooter3">
-              Lorem ipsum dolor sit amet, ghjnjnkm
+              Enjoy unparalleled peace of mind with
+              <br /> state-of- the-art security ensuring <br /> your safety
+              around the clock. <br /> Maintain your wellness routine in fully
               <br />
-              consectetur adipiscing elit, sed donoti
-              <br />
-              eiusmod tempor incididunt ut labore
-              <br />
-              et dolore magna aliqua. Ut enim ad
+              neighborhood park and benefit from <br /> on-site health equipped
+              facilities. Plus, <br /> with convenient access to nearby <br />
+              supermarkets, everything you need is <br /> just moments away.
             </p>
           </div>
           <div className="nearfooter4">
@@ -109,15 +104,10 @@ function App() {
                     </div>
                     <div className="nearfoot3">
                       <p id="nearfoot3a">
-                        Lorem ipsum dolor sit amet,
-                        <br />
-                        ghjnjnkm consectetur hmbhgv
-                        <br />
-                        adipiscing elit, sed donoti
-                        <br />
-                        eiusmod tempor incididunt ut labore
-                        <br />
-                        et dolore magna aliqua.
+                        Experience total peace of mind with 24/7 security at
+                        Sunnyvale. Advanced surveillance systems, security
+                        personnel, and secure entry points to ensure your safety
+                        and privacy are always prioritized.
                       </p>
                       <div>
                         <button id="but2">View More</button>
@@ -149,21 +139,14 @@ function App() {
               VISUAL TOUR OF <br /> OUR SUNNYVALE ESTATE
             </h1>
             <p id="basfooter3">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-              <br />
-              do eiusmod tempor incididunt ut labore et dolore magna
-              <br />
-              aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-              <br />
-              ullamco laboris nisi ut aliquip ex ea commodo consequat.
-              <br />
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              <br />
-              cillum dolore eu fugiat nulla pariatur. Excepteur sint
-              <br />
-              occaecat cupidatat non proident, sunt in culpa qui officia
-              <br />
-              deserunt mollit anim id est laborum.
+              Embark on a captivating visual tour of Sunnyvale, where stunning
+              architecture and lush landscapes come to life. Explore elegant
+              interiors, manicured gardens, and luxurious amenities through
+              high-definition imagery that showcases every exquisite detail and
+              enchanting view. Witness the seamless blend of sophistication and
+              comfort, and let the visuals transport you to a world of
+              unparalleled elegance. Experience the estate's charm and grandeur
+              from the comfort of your home.
             </p>
           </div>
           <div id="basfooter4">
@@ -179,13 +162,10 @@ function App() {
               LET'S START <br /> A CONVERSATION
             </h1>
             <p id="finfooter4">
-              Lorem ipsum dolor sit amet, ghjnjnkm
-              <br />
-              consectetur adipiscing elit, sed donoti
-              <br />
-              eiusmod tempor incididunt ut labore
-              <br />
-              et dolore magna alique.Ut enim ad
+              Invest in more than just a house; <br /> discover a place where
+              your future <br /> begins and cherished memories are <br /> made.
+              Find your perfect home and <br /> create a haven that embraces
+              your <br /> unique vision of comfort and happiness
             </p>
           </div>
           <div className="finfooter5">
