@@ -1,15 +1,15 @@
 import "./App.css";
-import mainimg from "../src/assets/Frame 7.png";
-import luxury from "../src/assets/Frame 34.png";
-import union from "../src/assets/Union.png";
-import Rectangle from "../src/assets/rectangle 1.png";
-import gym from "../src/assets/Frame 29.png";
-import supermarket from "../src/assets/rectangle 2.png";
-import tour from "../src/assets/Frame 50.png";
-import Xlogo from "../src/assets/devicon_twitter.png";
-import Whatsapplogo from "../src/assets/logos_whatsapp-icon.png";
-import IGLogo from "../src/assets/Group.png";
-import FBlogo from "../src/assets/Vector (1).png";
+// import mainimg from "../src/assets/Frame 7.png";
+// import luxury from "../src/assets/Frame 34.png";
+// import union from "../src/assets/Union.png";
+// import Rectangle from "../src/assets/rectangle 1.png";
+// import gym from "../src/assets/Frame 29.png";
+// import supermarket from "../src/assets/rectangle 2.png";
+// import tour from "../src/assets/Frame 50.png";
+// import Xlogo from "../src/assets/devicon_twitter.png";
+// import Whatsapplogo from "../src/assets/logos_whatsapp-icon.png";
+// import IGLogo from "../src/assets/Group.png";
+// import FBlogo from "../src/assets/Vector (1).png";
 
 function App() {
   return (
@@ -42,7 +42,7 @@ function App() {
             </p>
           </div>
           <div id="main4">
-            <img src={mainimg} alt="Houses in SunnyVale" />
+            <img src="./src/assets/res/Frame 7.png" alt="Houses in SunnyVale" />
           </div>
         </div>
       </section>
@@ -66,11 +66,11 @@ function App() {
                 every detail invites you to create unforgettable moments.
               </p>
               <div id="mid4">
-                <img src={luxury} alt="Image" />
+                <img src="./src/assets/res/Frame 34.png" alt="Image" />
               </div>
             </div>
             <div id="mid5">
-              <img src={union} alt="A Right Arrow" />
+              <img src="./src/assets/res/Union.png" alt="A Right Arrow" />
             </div>
           </div>
         </div>
@@ -99,7 +99,10 @@ function App() {
                     <div id="nearfoott4">
                       <h1 id="nearfoot4a">24/7 SECURITY</h1>
                       <div id="nearfoot4b">
-                        <img src={Rectangle} alt="Security Officer" />
+                        <img
+                          src="./src/assets/res/Rectangle 1.png"
+                          alt="Security Officer"
+                        />
                       </div>
                     </div>
                     <div className="nearfoot3">
@@ -117,13 +120,19 @@ function App() {
                   <div className="nearfoot5">
                     <h1 id="nearfoot5a">GYMS & HEALTH</h1>
                     <div id="nearfoot5b">
-                      <img src={gym} alt="Gym Equipments" />
+                      <img
+                        src="./src/assets/res/Frame 29.png"
+                        alt="Gym Equipments"
+                      />
                     </div>
                   </div>
                   <div className="nearfoot6">
                     <h1 id="nearfoot6a">SUPERMARKETS</h1>
                     <div id="nearfoot6b">
-                      <img src={supermarket} alt="Supermarket" />
+                      <img
+                        src="./src/assets/res/Rectangle 2.png"
+                        alt="Supermarket"
+                      />
                     </div>
                   </div>
                 </div>
@@ -150,7 +159,7 @@ function App() {
             </p>
           </div>
           <div id="basfooter4">
-            <img src={tour} alt="Tour Pictures" />
+            <img src="./src/assets/res/Frame 50.png" alt="Tour Pictures" />
           </div>
         </div>
       </section>
@@ -216,16 +225,22 @@ function App() {
           <div className="footer4">
             <div id="footer5">
               <div>
-                <img src={Xlogo} alt="X logo" />
+                <img src="./src/assets/res/devicon_twitter.png" alt="X logo" />
               </div>
               <div>
-                <img src={Whatsapplogo} alt="Whatsapp logo" />
+                <img
+                  src="./src/assets/res/logos_whatsapp-icon.png"
+                  alt="Whatsapp logo"
+                />
               </div>
               <div>
-                <img src={IGLogo} alt="Instagram logo" />
+                <img src="./src/assets/res/Group.png" alt="Instagram logo" />
               </div>
               <div>
-                <img src={FBlogo} alt="Facebook logo" />
+                <img
+                  src="./src/assets/res/Vector (1).png"
+                  alt="Facebook logo"
+                />
               </div>
             </div>
             <div id="footer6">
