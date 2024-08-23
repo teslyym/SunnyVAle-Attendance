@@ -120,6 +120,34 @@ function App() {
             </div>
             <div id="basfooter4"><img src="res/Frame 50.png" alt="Tour Pictures"></div>
         </div>
+                              </section>
+                              <section>
+        <div class="finfooter">
+        <div class="finfooter1">
+            <!-- <div id="finfooter1"><img src="res/Frame 55.png" alt="Login Page"></div> -->
+        </div>
+        <div class="finfooter2">
+            <h1 id="finfooter3">LET'S START <br> A CONVERSATION</h1>
+            <p id="finfooter4">Lorem ipsum dolor sit amet, ghjnjnkm <br>
+               consectetur adipiscing elit, sed donoti <br>
+               eiusmod tempor incididunt ut labore <br>
+               et dolore magna alique.Ut enim ad</p>
+        </div>
+        <div class="finfooter5">
+            <div>
+                <h1 id="finfooter5a">Send an Inquiry</h1>
+            </div>
+            <div class="finfooter6">
+                <input type="text" id="name" name="Name" placeholder="Name"><br>
+                <input type="text" id="emailaddress" name="Name" placeholder="Email Address"><br>
+                <input type="text" id="phonenumber" name="Name" placeholder="Phone Number"><br>
+                <input type="text" id="message" name="Name" placeholder="Message"><br>
+            </div>
+            <div class="finfooter7">
+                <button id="but3">Submit Inquiry</button>
+            </div>
+        </div>
+        </div>
     </section>
 
       <body/>
