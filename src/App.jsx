@@ -148,7 +148,29 @@ function App() {
             </div>
         </div>
         </div>
-    </section>
+                                              </section>
+                                               <footer>
+        <div class="footer">
+            <div class="footer1">
+                <h1 id="footer2">SunnyVale Estate</h1>
+                <p id="footer3">Privacy Policy
+                    <br>
+                   Terms and Conditions
+                </p>
+            </div>
+            <div class="footer4">
+                <div id="footer5">
+                    <div><img src="res/devicon_twitter.png" alt="X logo"></div>
+                    <div><img src="res/logos_whatsapp-icon.png" alt="Whatsapp logo"></div>
+                    <div><img src="res/Group.png" alt="Instagram logo"></div>
+                    <div><img src="res/Vector (1).png" alt="Facebook logo"></div>
+                </div>
+                <div id="footer6">
+                    <p id="footer7">© 2024 BEU SunnyVale Estate All Rights Reserved</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 
       <body/>
     </>
