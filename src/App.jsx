@@ -1,4 +1,15 @@
 import "./App.css";
+import mainimg from "../src/assets/res/Frame 7.png";
+import luxury from "../src/assets/res/Frame 34.png";
+import union from "../src/assets/res/union.png";
+import Rectangle from "../src/assets/res/rectangle 1.png";
+import gym from "../src/assets/res/Frame 29.png";
+import supermarket from "../src/assets/res/rectangle 2.png";
+import tour from "../src/assets/res/Frame 50.png";
+import Xlogo from "../src/assets/res/devicon_twitter.png";
+import Whatsapplogo from "../src/assets/res/logos_whatsapp-icon.png";
+import IGLogo from "../src/assets/res/Group.png";
+import FBlogo from "../src/assets/res/Vector (1).png";
 
 function App() {
   return (
@@ -31,7 +42,7 @@ function App() {
             </p>
           </div>
           <div id="main4">
-            <img src="res/Frame 7.png" alt="Houses in SunnyVale" />
+            <img src={mainimg} alt="Houses in SunnyVale" />
           </div>
         </div>
       </section>
@@ -60,11 +71,11 @@ function App() {
                 culpa qui officia deserunt mollit anim id est laborum
               </p>
               <div id="mid4">
-                <img src="res/Frame 34.png" alt="Image" />
+                <img src={luxury} alt="Image" />
               </div>
             </div>
             <div id="mid5">
-              <img src="res/Union.png" alt="A Right Arrow" />
+              <img src={union} alt="A Right Arrow" />
             </div>
           </div>
         </div>
@@ -93,7 +104,7 @@ function App() {
                     <div id="nearfoott4">
                       <h1 id="nearfoot4a">24/7 SECURITY</h1>
                       <div id="nearfoot4b">
-                        <img src="res/Rectangle 1.png" alt="Security Officer" />
+                        <img src={Rectangle} alt="Security Officer" />
                       </div>
                     </div>
                     <div className="nearfoot3">
@@ -116,13 +127,13 @@ function App() {
                   <div className="nearfoot5">
                     <h1 id="nearfoot5a">GYMS & HEALTH</h1>
                     <div id="nearfoot5b">
-                      <img src="res/Frame 29.png" alt="Gym Equipments" />
+                      <img src={gym} alt="Gym Equipments" />
                     </div>
                   </div>
                   <div className="nearfoot6">
                     <h1 id="nearfoot6a">SUPERMARKETS</h1>
                     <div id="nearfoot6b">
-                      <img src="res/Rectangle 2.png" alt="Supermarket" />
+                      <img src={supermarket} alt="Supermarket" />
                     </div>
                   </div>
                 </div>
@@ -156,7 +167,7 @@ function App() {
             </p>
           </div>
           <div id="basfooter4">
-            <img src="res/Frame 50.png" alt="Tour Pictures" />
+            <img src={tour} alt="Tour Pictures" />
           </div>
         </div>
       </section>
@@ -225,16 +236,16 @@ function App() {
           <div className="footer4">
             <div id="footer5">
               <div>
-                <img src="res/devicon_twitter.png" alt="X logo" />
+                <img src={Xlogo} alt="X logo" />
               </div>
               <div>
-                <img src="res/logos_whatsapp-icon.png" alt="Whatsapp logo" />
+                <img src={Whatsapplogo} alt="Whatsapp logo" />
               </div>
               <div>
-                <img src="res/Group.png" alt="Instagram logo" />
+                <img src={IGLogo} alt="Instagram logo" />
               </div>
               <div>
-                <img src="res/Vector (1).png" alt="Facebook logo" />
+                <img src={FBlogo} alt="Facebook logo" />
               </div>
             </div>
             <div id="footer6">
