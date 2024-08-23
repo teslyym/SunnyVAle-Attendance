@@ -1,15 +1,4 @@
 import "./App.css";
-// import mainimg from "../src/assets/Frame 7.png";
-// import luxury from "../src/assets/Frame 34.png";
-// import union from "../src/assets/Union.png";
-// import Rectangle from "../src/assets/rectangle 1.png";
-// import gym from "../src/assets/Frame 29.png";
-// import supermarket from "../src/assets/rectangle 2.png";
-// import tour from "../src/assets/Frame 50.png";
-// import Xlogo from "../src/assets/devicon_twitter.png";
-// import Whatsapplogo from "../src/assets/logos_whatsapp-icon.png";
-// import IGLogo from "../src/assets/Group.png";
-// import FBlogo from "../src/assets/Vector (1).png";
 
 function App() {
   return (
@@ -38,11 +27,14 @@ function App() {
             <h1 id="main2">DELIVERING PREMIUM SERVICES</h1>
             <p id="main3">
               Exceeding expectations with every detail, delivering premium
-              services that define excellence.
+              services that define excellence.
             </p>
           </div>
           <div id="main4">
-            <img src="./src/assets/res/Frame 7.png" alt="Houses in SunnyVale" />
+            <img
+              src="./public/src/assets/res/Frame 7.png"
+              alt="Houses in SunnyVale"
+            />
           </div>
         </div>
       </section>
