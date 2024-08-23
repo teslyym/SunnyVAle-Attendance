@@ -104,6 +104,22 @@ function App() {
                 </div>
             </div>
         </div>
+                  </section>
+                  <section>
+        <div class="basfooter">
+            <div class="basfooter1">
+                <h1 id="basfooter2">VISUAL TOUR OF <br> OUR SUNNYVALE ESTATE</h1>
+                <p id="basfooter3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed <br>
+                   do eiusmod tempor incididunt ut labore et dolore magna <br>
+                   aliqua. Ut enim ad minim veniam, quis nostrud exercitation <br>
+                   ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
+                   Duis aute irure dolor in reprehenderit in voluptate velit esse <br>
+                   cillum dolore eu fugiat nulla pariatur. Excepteur sint <br>
+                   occaecat cupidatat non proident, sunt in culpa qui officia<br>
+                   deserunt mollit anim id est laborum.</p>
+            </div>
+            <div id="basfooter4"><img src="res/Frame 50.png" alt="Tour Pictures"></div>
+        </div>
     </section>
 
       <body/>
