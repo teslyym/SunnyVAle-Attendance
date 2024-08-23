@@ -56,7 +56,56 @@ function App() {
                 </div>
                  <div id="mid5"><img src="res/Union.png" alt=" A Right Arrow"/></div> 
             </div>
-        <section/>
+        <section />
+        <section>
+        <div class="nearfooter">
+            <div class="nearfooter1">
+                <h1 id="nearfooter2">UNVEIL THE HIGHLIGHTS <br>   OF OUR NEIGHBOURHOOD</h1>
+                <p id="nearfooter3">Lorem ipsum dolor sit amet, ghjnjnkm <br>
+                   consectetur adipiscing elit, sed donoti <br>
+                   eiusmod tempor incididunt ut labore <br>
+                   et dolore magna aliqua. Ut enim ad </p>
+            </div>
+            <div class="nearfooter4">
+                <!-- <div id="nearfoot1"><img src="res/Frame 18.png" alt="24/7 SECURITY"></div> -->
+                <!-- <div id="nearfoot2"><img src="res/Frame 20.png" alt="GYMS AND HEALTH"></div>
+                <div id="nearfoot3"><img src="res/Frame 26.png" alt="SUPERMARKETS"></div> -->
+                <div class="nearfoot1">
+                    <!-- <h1 id="nearfoot1a">24/7 SECURITY</h1> -->
+                    <div id="nearfoot1b">
+                     <div class="nearfoot2">
+                        <!-- <h1 id="nearfoot1a">24/7 SECURITY</h1> -->
+                        <div id="nearfoot4">
+                            <div id="nearfoott4">
+                            <h1 id="nearfoot4a">24/7 SECURITY</h1>
+                            <div id="nearfoot4b"><img src="res/Rectangle 1.png" alt="Security Officer"></div>
+                            </div>
+                        <div class="nearfoot3">
+                            <p id="nearfoot3a">Lorem ipsum dolor sit amet,<br>
+                               ghjnjnkm consectetur hmbhgv <br>
+                               adipiscing elit, sed donoti <br>
+                               eiusmod tempor incididunt ut labore <br>
+                               et dolore magna aliqua.</p>
+                               <div> 
+                                <button id="but2">View More</button>
+                               </div>
+                        </div>
+                        </div>
+                        <div class="nearfoot5" >
+                            <h1 id="nearfoot5a">GYMS & HEALTH</h1>
+                            <div id="nearfoot5b"><img src="res/Frame 29.png" alt="Gym Equipments"></div>
+                        </div>
+                        <div class="nearfoot6">
+                            <h1 id="nearfoot6a">SUPERMARKETS</h1>
+                            <div id="nearfoot6b"><img src="res/Rectangle 2.png" alt="Supermarket"></div>
+                        </div>
+                     </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
       <body/>
     </>
   );
