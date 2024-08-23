@@ -1,7 +1,7 @@
 import "./App.css";
 import mainimg from "../src/assets/res/Frame 7.png";
 import luxury from "../src/assets/res/Frame 34.png";
-import union from "../src/assets/res/union.png";
+import union from "../src/assets/res/Union.png";
 import Rectangle from "../src/assets/res/rectangle 1.png";
 import gym from "../src/assets/res/Frame 29.png";
 import supermarket from "../src/assets/res/rectangle 2.png";
