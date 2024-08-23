@@ -1,5 +1,15 @@
 import "./App.css";
 import home from "../public/res/Frame 7.png";
+import Framee from "../public/res/Frame 34.png";
+import Rectangle from "../public/res/Rectangle 1.png";
+import union from "../public/res/Union.png";
+import Frame29 from "../public/res/Frame 29.png";
+import Rectangle2 from "../public/res/Rectangle 2.png";
+import Frame50 from "../public/res/Frame 50.png";
+import Xlogo from "../public/res/devicon_twitter.png";
+import Whatsapp from "../public/res/logos_whatsapp-icon.png";
+import IGlogo from "../public/res/Group.png";
+import FBLogo from "../public/res/Vector (1).png";
 
 function App() {
   return (
@@ -56,11 +66,11 @@ function App() {
                 every detail invites you to create unforgettable moments.
               </p>
               <div id="mid4">
-                <img src="./public/res/Frame 34.png" alt="Image" />
+                <img src={Framee} alt="Image" />
               </div>
             </div>
             <div id="mid5">
-              <img src="./public/res/Union.png" alt="A Right Arrow" />
+              <img src={union} alt="A Right Arrow" />
             </div>
           </div>
         </div>
@@ -89,10 +99,7 @@ function App() {
                     <div id="nearfoott4">
                       <h1 id="nearfoot4a">24/7 SECURITY</h1>
                       <div id="nearfoot4b">
-                        <img
-                          src="./public/res/Rectangle 1.png"
-                          alt="Security Officer"
-                        />
+                        <img src={Rectangle} alt="Security Officer" />
                       </div>
                     </div>
                     <div className="nearfoot3">
@@ -110,19 +117,13 @@ function App() {
                   <div className="nearfoot5">
                     <h1 id="nearfoot5a">GYMS & HEALTH</h1>
                     <div id="nearfoot5b">
-                      <img
-                        src="./public/res/Frame 29.png"
-                        alt="Gym Equipments"
-                      />
+                      <img src={Frame29} alt="Gym Equipments" />
                     </div>
                   </div>
                   <div className="nearfoot6">
                     <h1 id="nearfoot6a">SUPERMARKETS</h1>
                     <div id="nearfoot6b">
-                      <img
-                        src="./public/res/Rectangle 2.png"
-                        alt="Supermarket"
-                      />
+                      <img src={Rectangle2} alt="Supermarket" />
                     </div>
                   </div>
                 </div>
@@ -149,7 +150,7 @@ function App() {
             </p>
           </div>
           <div id="basfooter4">
-            <img src="./public/res/Frame 50.png" alt="Tour Pictures" />
+            <img src={Frame50} alt="Tour Pictures" />
           </div>
         </div>
       </section>
@@ -215,19 +216,16 @@ function App() {
           <div className="footer4">
             <div id="footer5">
               <div>
-                <img src="./public/res/devicon_twitter.png" alt="X logo" />
+                <img src={Xlogo} alt="X logo" />
               </div>
               <div>
-                <img
-                  src="./public/res/logos_whatsapp-icon.png"
-                  alt="Whatsapp logo"
-                />
+                <img src={Whatsapp} alt="Whatsapp logo" />
               </div>
               <div>
-                <img src="./public/res/Group.png" alt="Instagram logo" />
+                <img src={IGlogo} alt="Instagram logo" />
               </div>
               <div>
-                <img src="./public/res/Vector (1).png" alt="Facebook logo" />
+                <img src={FBLogo} alt="Facebook logo" />
               </div>
             </div>
             <div id="footer6">
